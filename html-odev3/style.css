@@ -1,0 +1,30 @@
+h1 {
+    color: brown;
+}
+
+.a {
+    color: brown;
+}
+
+.b {
+    background-color: brown;
+    font-weight: bold;
+    color: #fff;
+    display: inline-block;
+}
+
+.final {
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(44, 11, 11);
+    float: right;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 60%;
+}
+
